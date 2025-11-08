@@ -43,4 +43,5 @@ The dataset mimics real scenarios with 9,999 records, including diseases like Ma
 
 ### Contact
 For questions or collaborations, [Reach out to me on LinkedIn](https://www.linkedin.com/in/0dinakaafam).
-[Check my Medium Profile](https://medium.com/@odinakaafam) post for a detailed walkthrough!
+
+[Check my Medium Profile post](https://medium.com/@odinakaafam/analyzing-disease-patterns-in-west-africa-a-data-dashboard-built-with-excel-56acb3ae7b0f) for a detailed walkthrough!
